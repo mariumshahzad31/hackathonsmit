@@ -1,0 +1,83 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.6;
+}
+.hero {
+    min-height: 90vh;
+    background: #f9fafb;
+    padding: 80px 20px;
+}
+.hero h1 {
+    font-size: 2.7rem;
+    font-weight: 700;
+}
+.hero p {
+    font-size: 1.05rem;
+    color: #5f6368;
+}
+
+.clients img {
+    max-height: 55px;
+    object-fit: contain;
+}
+
+.btn-success, .read-more-btn {
+    background-color: #28a745;
+    border: none;
+    color: #fff;
+    padding: 10px 20px;
+}
+
+.btn-success:hover, .read-more-btn:hover {
+    background-color: #218838;
+}
+
+.btn-outline-success {
+    color: #28a745;
+    border: 1px solid #28a745;
+}
+
+.btn-outline-success:hover {
+    background-color: #28a745;
+    color: #fff;
+}
+.custom-card {
+    border-radius: 10px;
+    transition: transform 0.3s;
+}
+
+.custom-card:hover {
+    transform: translateY(-5px);
+}
+.highlighted-card {
+    background-color: #f0f4f8;
+}
+
+.discovery-section {
+    background-color: #fff;
+}
+
+.discovery-section img {
+    max-width: 100%;
+    height: auto;
+}
+.achievements-section {
+    background-color: white;
+}
+.achievements-section h5 {
+    color: #198754;
+    font-weight: bold;
+}
+.footer {
+    background-color: #000;
+    color: #fff;
+    padding: 40px 20px;
+}
+.footer a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}

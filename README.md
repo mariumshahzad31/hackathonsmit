@@ -1,0 +1,1 @@
+This project is a responsive website where you can track your hackathon participation and achievements. I built it by converting a given figma design using HTML, CSS, and Bootstrap. It includes sections like clients, community, achievements, and a clean, modern layout.
